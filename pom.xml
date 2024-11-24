@@ -99,7 +99,7 @@
 				</executions>
 				<configuration>
 					<nodeVersion>${node.version}</nodeVersion>
-					<workingDirectory>src/main/frontend/my-project</workingDirectory>
+					<workingDirectory>src/main/frontend/myproject</workingDirectory>
 					<installDirectory>target</installDirectory>
 				</configuration>
 			</plugin>
